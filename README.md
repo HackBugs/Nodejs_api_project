@@ -1,3 +1,17 @@
+#### Testing with Postman or Browser
+    - GET Request: Direct browser se access karein http://localhost:3000/api/device-data.
+    - GET Request: Direct browser se access karein http://localhost:3000/api/users
+    - GET Request: Direct browser se access karein http://localhost:3000/api/users/1\
+    - POST, PUT, DELETE: Postman ya kisi aur API testing tool se test karein. 
+
+Summary:
+
+    ```- Multiple APIs: Aapke paas ab multiple endpoints hain jo device data ko handle kar sakte hain.
+    - CRUD Operations: Humne basic CRUD operations implement kiye hain (Create, Read, Update, Delete).```
+    
+Aap is API ko frontend mein fetch ya axios se call kar sakte hain aur data ko display ya modify kar sakte hain.
+
+
 > Node.js backend setup karne ke liye aapko kuch steps follow karne padhenge. Isme hum Node.js ko install karenge, ek basic Express server banayenge, aur phir API setup karenge. Chaliye step-by-step dekhte hain kaise setup kiya jata hai:
 
 ### Node.js Backend Setup
