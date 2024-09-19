@@ -1,4 +1,4 @@
-#### Testing with Postman or Browser
+#### Testing with [Postman](https://www.postman.com/downloads/) or Browser
     - GET Request: Direct browser se access karein http://localhost:3000/api/device-data.
     - GET Request: Direct browser se access karein http://localhost:3000/api/users
     - GET Request: Direct browser se access karein http://localhost:3000/api/users/1\
