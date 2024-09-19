@@ -3,16 +3,18 @@
 #### Website for API generate - [Mockaroo](https://www.mockaroo.com/)
 #### Download [MongoDB](https://www.mongodb.com/try/download/community) for store date like database
 #### Download [Node.js](https://nodejs.org/en/download/package-manager) JavaScript (but for server-side development)
-
-    - GET Request: Direct browser se access karein http://localhost:3000/api/device-data.
-    - GET Request: Direct browser se access karein http://localhost:3000/api/users
-    - GET Request: Direct browser se access karein http://localhost:3000/api/users/1\
-    - POST, PUT, DELETE: Postman ya kisi aur API testing tool se test karein. 
+```
+    GET Request: Direct browser se access karein http://localhost:3000/api/device-data.
+    GET Request: Direct browser se access karein http://localhost:3000/api/users
+    GET Request: Direct browser se access karein http://localhost:3000/api/users/1\
+    POST, PUT, DELETE: Postman ya kisi aur API testing tool se test karein.
+``` 
 
 Summary:
-
-    ```- Multiple APIs: Aapke paas ab multiple endpoints hain jo device data ko handle kar sakte hain.
-    - CRUD Operations: Humne basic CRUD operations implement kiye hain (Create, Read, Update, Delete).```
+```
+    Multiple APIs: Aapke paas ab multiple endpoints hain jo device data ko handle kar sakte hain.
+    CRUD Operations: Humne basic CRUD operations implement kiye hain (Create, Read, Update, Delete).
+```
     
 Aap is API ko frontend mein fetch ya axios se call kar sakte hain aur data ko display ya modify kar sakte hain.
 
