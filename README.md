@@ -1,5 +1,9 @@
+
 #### Testing with [Postman](https://www.postman.com/downloads/) or Browser
 #### Website for API generate - [Mockaroo](https://www.mockaroo.com/)
+#### Download [MongoDB](https://www.mongodb.com/try/download/community) for store date like database
+#### Download [Node.js](https://nodejs.org/en/download/package-manager) JavaScript (but for server-side development)
+
     - GET Request: Direct browser se access karein http://localhost:3000/api/device-data.
     - GET Request: Direct browser se access karein http://localhost:3000/api/users
     - GET Request: Direct browser se access karein http://localhost:3000/api/users/1\
